@@ -1,0 +1,20 @@
+{
+  "name": "application_frameworks_lab04",
+  "version": "1.0.0",
+  "description": "LAB 04 Introduction to NodeJS and GitHub flow",
+  "homepage": "https://github.com/anjuladabarera/Application_Frameworks_Lab04#readme",
+  "bugs": {
+    "url": "https://github.com/anjuladabarera/Application_Frameworks_Lab04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjuladabarera/Application_Frameworks_Lab04.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
